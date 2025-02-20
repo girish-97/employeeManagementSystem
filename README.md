@@ -19,10 +19,7 @@
 
     * Node.js
     * Express.js
-    * Sequelize ( ORM )
     * MySQL
-    * JWT
-    * Bcryptjs
     * Postman
 
 
